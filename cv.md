@@ -4,6 +4,9 @@
 **Phone:** +375 33 682-40-61  
 **Telegram:** [Osa_Zi](https://tlgg.ru/Osa_Zi)  
 **E-mail:** oksanka.zimenko@gmail.com  
+**GitHub:** [OksankaZi](https://github.com/OksankaZi)  
+**Discord:** [OksankaZi#9033](https://discordapp.com/users/992731927368974427)  
+**Location:** Gomel, Belarus
 ___
 ## About Me:  
 I very want to learn in RSSchool аnd become a Front-End developer!
@@ -15,7 +18,7 @@ ___
 - JavaScript Basics (in progress)
 ___  
 ## Code Example:  
-Some code...  
+In progress...  
 ___
 ## Work experience: 
 - **LTD Company "Lex Torg", Gomel**  
