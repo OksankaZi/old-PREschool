@@ -14,11 +14,78 @@ ___
 ## Skills:  
 - Git, GitHub  
 - VS Code  
-- HTML5, CSS3 (in progress)
+- HTML5, CSS3
 - JavaScript Basics (in progress)
 ___  
 ## Code Example:  
-In progress...  
+```
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Мой код</title>
+  <style>
+    h1 {
+      color: rgba(30, 1, 70, 0.8);
+    }
+
+    p {
+      font-size: 18px;
+    }
+
+    .hooray {
+      border: 3px double #ffffff;
+      margin: 10px 2px;
+      padding: 5px;
+      color: #ffffff;
+      background-color: rgba(30, 1, 70, 0.6);
+    }
+
+    @keyframes color-change {
+      0% {
+        color: #000000;
+      }
+
+      50% {
+        color: #ffc0cb;
+      }
+
+      100% {
+        color: #8b00ff;
+      }
+    }
+
+    .black-pink-purple {
+      animation: color-change 2s infinite;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Учеба в RS School продолжается!</h1>
+
+  <p>На данный момент я уже изучила:</p>
+
+   <ul>
+     <li>Git</li>
+     <li>GitHub</li>
+     <li>VS Code</li>
+     <li>HTML5</li>
+     <li>CSS3</li>
+   </ul>
+
+  <div class="hooray">
+    Ура!<br>
+      Теперь приступим к изучению Java Script!
+  </div>
+
+  <p class="black-pink-purple">Вперед за новыми знаниями!</p>
+
+</body>
+
+</html>
+```
 ___
 ## Work experience: 
 - **LTD Company "Lex Torg", Gomel**  
